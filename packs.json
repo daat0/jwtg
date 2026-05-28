@@ -1,0 +1,168 @@
+{
+  "free": {
+    "name": "ミステリーパック",
+    "dino_drop_rate": 0.5,
+    "eligible_rarities": ["common","rare", "superrare", "legend"],
+    "rarity_weights": {
+      "common": 70,
+      "rare": 20,
+      "superrare": 9,
+      "legend": 1
+    },
+    "element_weights": {
+      "0": 24,
+      "1": 24,
+      "2": 24,
+      "3": 24,
+      "4": 1,
+      "5": 1,
+      "6": 1
+    },
+    "water_weights": {
+      "0": 99,
+      "1": 1,
+      "2": 0
+    },
+    "hybrid_weights": {
+      "0": 95, 
+      "1": 5,
+      "2": 0
+    },
+    "dna_range": [250, 1000],
+    "coin_range": [3000, 6000],
+    "food_range": [3000, 6000],
+    "cash_range": [25, 100],
+    "rp_amount": 135
+  },
+  "gold": {
+    "name": "純金パック",
+    "dino_drop_rate": 1.0,
+    "eligible_rarities": ["vip"],
+    "rarity_weights": {
+      "vip": 100
+    },
+    "element_weights": {
+      "0": 24,
+      "1": 24,
+      "2": 24,
+      "3": 24,
+      "4": 1,
+      "5": 1,
+      "6": 1
+    },
+    "water_weights": {
+      "0": 99,
+      "1": 1,
+      "2": 0
+    },
+    "hybrid_weights": {
+      "0": 95, 
+      "1": 5,
+      "2": 0
+    },
+    "dna_range": [2500, 6000],
+    "cash_range": [0, 500],
+    "coin_range": [3000, 6000],
+    "food_range": [3000, 6000],
+    "rp_amount": 650
+  },
+ "bounce": {
+    "name": "ボーナスパック",
+    "dino_drop_rate": 0.3,
+    "eligible_rarities": ["rare","superrare","legend"],
+    "rarity_weights": {
+      "rare": 60,
+      "superrare": 30,
+      "legend": 10
+    },
+    "element_weights": {
+      "0": 24,
+      "1": 24,
+      "2": 24,
+      "3": 24,
+      "4": 1,
+      "5": 1,
+      "6": 1
+    },
+    "water_weights": {
+      "0": 95,
+      "1": 5,
+      "2": 0
+    },
+    "hybrid_weights": {
+      "0": 95, 
+      "1": 5,
+      "2": 0
+    },
+    "cash_range": [10, 50],
+    "amber_range": [120, 500],
+    "food_range": [3000, 6000],
+    "rp_amount": 325
+  },
+"bounceII": {
+    "name": "ボーナスパックII",
+    "dino_drop_rate": 0.3,
+    "eligible_rarities": ["rare","superrare","legend"],
+    "rarity_weights": {
+      "rare": 60,
+      "superrare": 30,
+      "legend": 10
+    },
+    "element_weights": {
+      "0": 24,
+      "1": 24,
+      "2": 24,
+      "3": 24,
+      "4": 1,
+      "5": 1,
+      "6": 1
+    },
+    "water_weights": {
+      "0": 95,
+      "1": 5,
+      "2": 0
+    },
+    "hybrid_weights": {
+      "0": 95, 
+      "1": 5,
+      "2": 0
+    },
+    "cash_range": [10, 30],
+    "coin_range": [1200, 6000],
+    "food_range": [4000, 7000],
+    "rp_amount": 325
+  },
+"bounceIII": {
+    "name": "ボーナスパックIII",
+    "dino_drop_rate": 0.3,
+    "eligible_rarities": ["rare","superrare","legend"],
+    "rarity_weights": {
+      "rare": 60,
+      "superrare": 30,
+      "legend": 10
+    },
+    "element_weights": {
+      "0": 24,
+      "1": 24,
+      "2": 24,
+      "3": 24,
+      "4": 1,
+      "5": 1,
+      "6": 1
+    },
+    "water_weights": {
+      "0": 95,
+      "1": 5,
+      "2": 0
+    },
+    "hybrid_weights": {
+      "0": 95, 
+      "1": 5,
+      "2": 0
+    },
+    "cash_range": [10, 50],
+    "amber_range": [50, 100],
+    "dna_range": [3000, 4000],
+    "rp_amount": 325
+  }
+}
