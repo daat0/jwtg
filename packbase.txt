@@ -1,0 +1,39 @@
+  "free": {
+    "name": "ミステリーパック",
+    "dino_drop_rate": 0.6,
+    "dino_weights": {
+      "101": 50,
+      "205": 30,
+      "310": 20
+    },
+    "eligible_rarities": ["common","rare", "superrare", "legend"],
+    "rarity_weights": {
+      "common": 70,
+      "rare": 20,
+      "super_rare": 9,
+      "legendary": 1
+    },
+    "element_weights": {
+      "0": 24,
+      "1": 24,
+      "2": 24,
+      "3": 24,
+      "4": 1,
+      "5": 1,
+      "6": 1
+    },
+    "water_weights": {
+      "0": 99,
+      "1": 1,
+      "2": 0
+    },
+    "hybrid_weights": {
+      "0": 95, 
+      "1": 5,
+      "2": 0
+    },
+    "dna_range": [250, 1000],
+    "coin_range": [3000, 6000],
+    "cash_range": [25, 100],
+    "rp_amount": 135
+  },
